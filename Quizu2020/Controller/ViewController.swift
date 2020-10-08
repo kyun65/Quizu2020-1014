@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
     
+        //コメント追加
         
     }
 
@@ -43,7 +44,6 @@ class ViewController: UIViewController {
             
             self.present(NameModeView, animated: true, completion: nil)
        
-          
         }
         
     }
